@@ -34,7 +34,7 @@
     </nav>
 
     <section class="container">
-        <h1>WIP : en sah comment j'ai la flemme les comptes servirait a quedal si je les fais maintenant</h1>
+        <h1>WIP</h1>
     </section>
 
 </body>

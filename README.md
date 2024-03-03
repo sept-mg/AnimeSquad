@@ -1,3 +1,3 @@
 # AnimeSquad
 
-now online [here](https://anime-squad.fr/player)
+now online [here](https://animesquad.septmg.fr/)
