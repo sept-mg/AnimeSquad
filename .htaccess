@@ -1,0 +1,5 @@
+RewriteEngine On
+
+AddType application/wasm .wasm
+AddType application/javascript .js
+ErrorDocument 404 /
